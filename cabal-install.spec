@@ -1,4 +1,5 @@
 %global debug_package %{nil}
+%global _find_debuginfo_opts --no-ar-files
 Summary:	cabal-install 3.12.1.0, the Haskell package installer
 Name:		cabal-install
 Version:	3.12.1.0
